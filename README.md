@@ -27,4 +27,4 @@ We constructed a large-scale, balanced dataset to train this model:
 
 Due to GitHub storage limits (>100MB), the full dataset is hosted externally.
 
-[**DOWNLOAD DATASET HERE (Google Drive)**]((https://drive.google.com/file/d/1Ty_MAHWL9v6D8yJXRHS-_cOzDI2o0JZU/view?usp=sharing))
+[**DOWNLOAD DATASET HERE (Google Drive)**](https://drive.google.com/file/d/1Ty_MAHWL9v6D8yJXRHS-_cOzDI2o0JZU/view?usp=sharing)
